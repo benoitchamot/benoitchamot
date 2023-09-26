@@ -1,5 +1,11 @@
 ## Hi there, I am Benoit
 
+### What do I bring?
+- Proficiency with Python, SQL and MongoDB (read more below!)
+- **10+ years of experience** in the space industry
+- Engineer = scientific mind and **problem-solver**
+- Business developer = communication and **relationship building**
+
 ### Programming skills
 - **Python** (I have used it since about 2012 for data cleaning and mining) - some modules I am particularly familiar with are pandas, matplotlib, scipy, Flask, pymongo and SQLAlchemy... The projects I have worked on includes space mission design (as part of my work), web scraping, data analytics, neural networks, simple game design (text-based and 2D), etc.
 - **HTML5** and **JavaScript** (I have built websites since 2004 or so and HTML was my first introduction to programming) - I enjoy building interactive dashboard with HTML5, based on a Bootstrap structure and including Plotly.js, Leaflet.js, D3.js and AnyChart.js. I am planning to explore more of what JavaScript has to offer.
