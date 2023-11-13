@@ -14,10 +14,12 @@
 - **R** (I have started using this language only recently and I am still exploring its potential) - I love learning new programming languages and adding them to my skillset.
 
 ### Monash University's Data Analytics Bootcamp
+Graduated in Nov. 2023
+
 This intensive program goes into a lot of details and is built around practical assignments and projects (many of which can be found in my repositories.) It helped me update my programming skills, especially in Python, and formalise over a decade of self-learning about data manipulation and numerical analysis.
 
 ### Google Data Analytics Specialization
-Graduated in Sept. 2023
+Graduated in Sep. 2023
 
 This course started my journey as a Data Analyst and gave me an overview of the complete Data Analytics process.
 
