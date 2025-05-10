@@ -1,10 +1,10 @@
 ## Call me Benny
 
 ### 👯 What do I bring?
-- Proficiency with Python, SQL and MongoDB (read more below!)
+- Proficiency with Python, SQL and other things
 - **10+ years of experience** in the space industry
-- Engineer = scientific mind and **problem-solver**
-- Business developer = communication and **relationship building**
+- Engineer = I have a nerdy mind and I like **complex problems**
+- Business developer = I like **people** and I like to talk
 
 ### ⚡ Fun Facts
 - I'm definitely a **Python** guy (I have used it since about 2012 for all kind of stuff)
